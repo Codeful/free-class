@@ -1,0 +1,36 @@
+body {
+  color: white;
+  background: url(pattern.png);
+  font-family: 'Open Sans', sans-serif;
+}
+header {
+  text-align: center;
+}
+
+header img {
+  border-radius: 50%;
+}
+
+section {
+  width: 700px;
+  margin: 1em auto;
+  color: black;
+  background: white;
+  padding: 1em;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.5em 1em;
+  color: white;
+  text-decoration: none;
+  background: #999;
+}
+
+.button:hover {
+  background: #666;
+}
+
+
+
+
